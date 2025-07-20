@@ -505,7 +505,8 @@ streamlit run app.py --logger.level debug
 
 ### **Documentation**
 - README with setup instructions
-- Technical documentation
+- Technical documentation<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 13 PM" src="https://github.com/user-attachments/assets/7ac3eff9-5668-4893-a18e-4487d44774b1" />
+
 - Usage examples
 - Code comments
 - Demo scripts
