@@ -199,6 +199,42 @@ Text Colors:
 4. **Interactivity**: Hover effects, transitions, and feedback
 5. **Professional**: Clean, modern aesthetic suitable for business use
 
+## 📸 Dashboard Screenshots
+
+Here's a visual showcase of the dashboard's various features and visualizations:
+
+### Line Chart and Time Series Analysis
+![Line Chart](Screenshots/Screenshot%202025-07-20%20at%204.13.09%20PM.png)
+![Time Series](Screenshots/Screenshot%202025-07-20%20at%204.13.13%20PM.png)
+
+### Bar Charts and Category Comparisons
+![Bar Chart](Screenshots/Screenshot%202025-07-20%20at%204.13.16%20PM.png)
+![Category Analysis](Screenshots/Screenshot%202025-07-20%20at%204.13.20%20PM.png)
+
+### Scatter Plots and Correlation Analysis
+![Scatter Plot](Screenshots/Screenshot%202025-07-20%20at%204.13.24%20PM.png)
+![Correlation Analysis](Screenshots/Screenshot%202025-07-20%20at%204.13.28%20PM.png)
+
+### Pie Charts and Distribution Analysis
+![Pie Chart](Screenshots/Screenshot%202025-07-20%20at%204.13.31%20PM.png)
+![Distribution Analysis](Screenshots/Screenshot%202025-07-20%20at%204.13.37%20PM.png)
+
+### Heatmaps and Pattern Recognition
+![Heatmap](Screenshots/Screenshot%202025-07-20%20at%204.13.48%20PM.png)
+![Pattern Analysis](Screenshots/Screenshot%202025-07-20%20at%204.13.56%20PM.png)
+
+### 3D Visualizations and Complex Data
+![3D Scatter](Screenshots/Screenshot%202025-07-20%20at%204.14.03%20PM.png)
+![Complex Analysis](Screenshots/Screenshot%202025-07-20%20at%204.14.12%20PM.png)
+
+### Geographic and Special Visualizations
+![Map Visualization](Screenshots/Screenshot%202025-07-20%20at%204.14.27%20PM.png)
+![Geographic Analysis](Screenshots/Screenshot%202025-07-20%20at%204.14.34%20PM.png)
+
+### Advanced Analytics Features
+![Analytics Dashboard](Screenshots/Screenshot%202025-07-20%20at%204.14.59%20PM.png)
+![Interactive Features](Screenshots/Screenshot%202025-07-20%20at%204.15.15%20PM.png)
+
 ## 🚀 Installation & Setup
 
 ### **Prerequisites**
