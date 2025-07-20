@@ -485,6 +485,13 @@ This **Modern Data Visualization Dashboard** delivers a comprehensive solution f
 - ✅ **Production-ready** code with comprehensive documentation
 
 The project is **immediately usable** and demonstrates advanced data visualization capabilities that can be easily customized for specific business needs.
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 37 PM" src="https://github.com/user-attachments/assets/3260c9d4-949f-40fc-8e56-2b0bc95fd6a2" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 20 PM" src="https://github.com/user-attachments/assets/084739ec-0915-420c-ab92-0d1eb474bf3c" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 16 PM" src="https://github.com/user-attachments/assets/c9efcd69-5ab8-4f18-bffd-b60066941366" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 13 PM" src="https://github.com/user-attachments/assets/c03ffb52-e3c4-4fdf-8ecc-bfa7f4cece2d" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 09 PM" src="https://github.com/user-attachments/assets/907ec350-9c10-47f7-9c70-e779d09cf6cf" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 34 PM" src="https://github.com/user-attachments/assets/c89e6253-31cc-46f9-90f7-da21190f8e4f" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 56 PM" src="https://github.com/user-attachments/assets/78ebc8ea-8ab9-471c-93f5-a43a51e5ed41" />
 
 ---
 
